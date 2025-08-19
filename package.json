@@ -18,5 +18,7 @@
   "homepage": "https://github.com/devansh101005/nodeUdemy#readme",
   "dependencies": {
     "@types/node": "^24.3.0"
-  }
+  },
+  "devDependencies": {},
+  "keywords": []
 }

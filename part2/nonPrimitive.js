@@ -54,7 +54,7 @@ console.log(1+'1') //11
 let isValue="2"
 console.log(Number(isValue))
 
-console.log(Number(null)) //0
+console.log(Number(null)) 
 
 
 
